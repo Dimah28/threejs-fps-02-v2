@@ -66,7 +66,6 @@ export class Game {
     this.round += 1;
     const S = this.S;
     // Spawns and facing.
-    const sSpawns = S.world.sites; // (unused; spawns live in MAP via world module)
     const { sentinelSpawns, viperSpawns } = S.map;
     const sentinels = S.actors.filter((a) => a.team === 'sentinel');
     const vipers = S.actors.filter((a) => a.team === 'viper');
