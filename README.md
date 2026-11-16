@@ -1,4 +1,10 @@
-# Ironworks Protocol — a three.js tactical FPS
+# threejs-fps-02-v2
+
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/Dimah28/threejs-fps-02-v2/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/Dimah28/threejs-fps-02-v2/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
+Ironworks Protocol — a round-based three.js tactical FPS.
 
 A round-based tactical first-person shooter in the Counter-Strike style, built
 for the make.fun bounty "Make the best three.js tactical FPS". Two teams of five
@@ -143,3 +149,7 @@ Four staged frames, all rendered by the game itself with `?shot=…&seed=1`:
 
 MIT — see `LICENSE`. three.js is MIT-licensed (see
 `game/vendor/three/LICENSE`).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6kzxz8b0&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
